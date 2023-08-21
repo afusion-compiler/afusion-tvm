@@ -4,7 +4,7 @@ from collections import namedtuple
 import numpy as np
 import tvm
 
-from .patterns.base import Pattern
+from .patterns.pattern import Pattern
 import logging
 import datetime
 import sys

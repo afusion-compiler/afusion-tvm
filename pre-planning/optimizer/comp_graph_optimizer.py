@@ -10,6 +10,7 @@ from ..utils import (
                         is_tuplegetitem_node,
                         get_op_pattern,
                         is_call_node,
+                        is_function_node,
                         get_args,
                         is_var,
                     )
